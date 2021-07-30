@@ -1,0 +1,29 @@
+body {
+    max-width: 640px;
+    padding:0px 320px 0px 320px;
+    background-color: cornsilk;
+}
+img {
+    height: 640px;
+}
+h1 {
+    color:#68bfbf;
+}
+h2 {
+    color:#68bfbf;
+    background-color: chocolate;
+}
+h3 {
+    color:#68bfbf;
+    border-bottom-style: double;
+    border-bottom-color: chocolate;
+}
+hr {
+    height: 0px;
+    width: 30%;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #c7d6aed5;
+    border-top-color:wheat;
+    border-width: 8px;
+}
